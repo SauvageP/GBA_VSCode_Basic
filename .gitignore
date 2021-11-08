@@ -2,3 +2,10 @@ build/**
 *.elf
 *.gba
 *.sav
+.vscode/dryrun.log
+.vscode/settings.json
+.vscode/targets.log
+.vscode/c_cpp_properties.json
+.vscode/configurationCache.log
+.vscode/c_cpp_properties.json
+.vscode/c_cpp_properties.json
